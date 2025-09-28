@@ -14,12 +14,11 @@ It provides insights into **total sales, quantity, transactions, revenue trends,
 - **Data Visualization & Analysis**  
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot]("C:\Users\Lenovo\OneDrive\Desktop\power bi\dashboard.png")  
-*(Replace `dashboard.png` with the actual screenshot path in your repo)*  
+<img width="1207" height="673" alt="dashboard" src="https://github.com/user-attachments/assets/03c38f51-567e-4214-b50b-89f66333a8a6" />
+
 
 ## 📈 Key Learnings
 - Hands-on experience in **Power BI visualization techniques**.  
 - Improved skills in designing **professional dashboards** for business insights.  
 
----
-👩‍💻 *Created by Saniya Batra*
+
